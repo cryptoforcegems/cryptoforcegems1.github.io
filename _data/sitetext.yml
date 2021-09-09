@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome CryptoForce!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "What we offer"
     section: services
     list:
       - title: "E-Commerce"
@@ -77,20 +77,36 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+      
 
   team:
     title: "OUR AMAZING TEAM"
