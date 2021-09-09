@@ -31,11 +31,47 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
+  portfolios:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
+    
+  portfolio:
+    section: portfolio
+    title: "Portfolio Projects"
+    max-height: 100px
+    horizontal-scrolling: "no" #"yes/no"
+    list:
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+      - title: "IceTea Labs"
+        url: https://icetea.io/
+        logo: assets/img/clients/icetea.png
+      - title: "Basics Capital"
+        url: https://www.basics.vip/
+        logo: assets/img/clients/basics.png
+      - title: "Halvings capital"
+        url: https://halvingscapital.com/
+        logo: assets/img/clients/halvings.png
+  
+  
 
   timeline:
     title: "Timeline"
@@ -76,6 +112,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
+    title: "Our Partners"
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
@@ -106,6 +143,8 @@ en: &DEFAULT_EN
       - title: "Halvings capital"
         url: https://halvingscapital.com/
         logo: assets/img/clients/halvings.png
+  
+  
       
 
   team:
