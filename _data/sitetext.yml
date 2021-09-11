@@ -126,7 +126,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: CryptoForce is a value add investor in **blockchain projects**, we help maximize the reach of our partnere projects.
+    body: CryptoForce is a value add investor in **blockchain projects**, we help maximize the reach of our partner projects.
     section: about
 
   clients:
