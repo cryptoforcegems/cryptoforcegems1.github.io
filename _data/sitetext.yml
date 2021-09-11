@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome CryptoForce!
+    title: Welcome to CryptoForce!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "https://cryptoforcegems.medium.com/"
+    button: Know More
+    buttonlink: "https://docsend.com/view/yse9ruuqxqqrcesu"
 
   services:
     title: "Services"
@@ -43,33 +43,49 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
-      - title: "Basics Capital"
-        url: https://www.basics.vip/
-        logo: assets/img/clients/basics.png
-      - title: "Halvings capital"
-        url: https://halvingscapital.com/
-        logo: assets/img/clients/halvings.png
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
-      - title: "Basics Capital"
-        url: https://www.basics.vip/
-        logo: assets/img/clients/basics.png
-      - title: "Halvings capital"
-        url: https://halvingscapital.com/
-        logo: assets/img/clients/halvings.png
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
-      - title: "Basics Capital"
-        url: https://www.basics.vip/
-        logo: assets/img/clients/basics.png
-      - title: "Halvings capital"
-        url: https://halvingscapital.com/
-        logo: assets/img/clients/halvings.png
+      - title: "GameFi"
+        url: https://gamefi.org/
+        logo: assets/img/projects/gamefi.png
+      - title: "Step Hero"
+        url: https://www.stephero.io/
+        logo: assets/img/projects/stephero.png
+      - title: "Kaby Arena"
+        url: https://kabyarena.com/
+        logo: assets/img/projects/kabyarena.png
+      - title: "Kryptomon"
+        url: https://kryptomon.co/
+        logo: assets/img/projects/kryptomon.png
+      - title: "Death Road"
+        url: https://www.deathroad.io/
+        logo: assets/img/projects/deathroad.png
+      - title: "DeFi Warrior"
+        url: https://defiwarrior.com/
+        logo: assets/img/projects/defiwarrior.png
+      - title: "Yay Games"
+        url: https://yay.games/
+        logo: assets/img/projects/yaygames.png
+      - title: "Multi Game"
+        url: https://www.multigames.io/
+        logo: assets/img/projects/multigame.jpg
+      - title: "Anypad"
+        url: https://www.anypad.io/
+        logo: assets/img/projects/anypad.png
+      - title: "Hero Fi"
+        url: https://herofi.com/
+        logo: assets/img/projects/herofi.png
+      - title: "Realm"
+        url: https://www.realm.art/
+        logo: assets/img/projects/realm.png
+      - title: "H3ro3s"
+        url: http://h3ro3s.com/
+        logo: assets/img/projects/heroes.png
+      - title: "Soccer Hub"
+        url: https://soccerhub.io/
+        logo: assets/img/projects/soccerhub.png
+      - title: "Good Games Guild"
+        url: http://goodgamesguild.com/
+        logo: assets/img/projects/goodgamesguild.png
+  
   
   
 
@@ -116,24 +132,6 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
-      - title: "Basics Capital"
-        url: https://www.basics.vip/
-        logo: assets/img/clients/basics.png
-      - title: "Halvings capital"
-        url: https://halvingscapital.com/
-        logo: assets/img/clients/halvings.png
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
-      - title: "Basics Capital"
-        url: https://www.basics.vip/
-        logo: assets/img/clients/basics.png
-      - title: "Halvings capital"
-        url: https://halvingscapital.com/
-        logo: assets/img/clients/halvings.png
       - title: "IceTea Labs"
         url: https://icetea.io/
         logo: assets/img/clients/icetea.png
